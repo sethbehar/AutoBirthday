@@ -2,6 +2,8 @@
 
 This script automatically sends an email with the birthdays of your friends and family for today and tomorrow. It uses the Gmail API to send the emails.
 
+![ex](https://github.com/user-attachments/assets/cd83c793-2afd-4f77-b739-baa8bf340369)
+
 ## Features
 
 - Reads birthdays from a file (`birthdays.txt`).
